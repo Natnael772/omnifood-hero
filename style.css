@@ -17,14 +17,13 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-image: linear-gradient(to right, red, green); */
+ 
 }
 header {
   height: 100vh;
   color: #fff;
   position: relative;
-  /* vh is viewport height
-  100vh is 100%  of the available viewport */
+ 
   background-image: linear-gradient(
       rgba(34, 34, 34, 0.6),
       rgba(34, 34, 34, 0.6)
